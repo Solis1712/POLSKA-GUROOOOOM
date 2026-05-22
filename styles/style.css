@@ -66,3 +66,16 @@ body:active {
   font-weight: bold;
   margin: 2px 2px;
 }
+
+.kirky-img {
+    position: relative;
+    display: inline-block;
+    width: 8rem;
+    height: 8rem;
+}
+
+#kirky-container {
+    height: 45rem;
+    width: 45rem;
+    padding: 2rem;
+}
