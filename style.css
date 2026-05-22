@@ -33,3 +33,14 @@ body {
         background-position: 0% 50%;
     }
 }
+
+css.image-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.image-container img {
+  width: 45%;
+  height: auto;
+}
